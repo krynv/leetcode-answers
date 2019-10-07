@@ -47,7 +47,7 @@ var twoSum = (nums, target) => {
 
 ## Explanation
 
-For this solution, I am building a data disctionary in order to iterate through the given array of numbers and retrieve the indexes.
+For this solution, I am building a data dictionary in order to iterate through the given array of numbers and retrieve the indexes.
 
 We know that the solution only needs a single answer of two indexes.
 We also know that the given array must contain two values which add up to the target.
