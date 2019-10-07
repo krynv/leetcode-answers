@@ -3,4 +3,4 @@
 
 ## Table of Contents
 
-1. [Two Sum](./Easy/Two-Sum/Readme.md)
+1. [Two Sum](Easy/Two-Sum/Readme.md)
