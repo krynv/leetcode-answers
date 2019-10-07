@@ -3,4 +3,4 @@
 
 ## Table of Contents
 
-1. [Two Sum](leetcode-answers/blob/master/Easy/Two-Sum/README.md)
+1. [Two Sum](Easy/Two-Sum/README.md)
