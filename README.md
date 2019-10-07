@@ -7,3 +7,4 @@
 
 1. [Two Sum](Easy/Two%20Sum/README.md)
 2. [Reverse Integer](Easy/Reverse%20Integer/README.md)
+3. [FizzBuzz](Easy/FizzBuzz/README.md)
