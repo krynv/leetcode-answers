@@ -5,5 +5,5 @@
 
 ### Easy
 
-1. [Two Sum](Easy/Two-Sum/README.md)
-2. [Reverse Integer](Easy/Reverse-Integer/README.md)
+1. [Two Sum](Easy/Two%20Sum/README.md)
+2. [Reverse Integer](Easy/Reverse%20Integer/README.md)
