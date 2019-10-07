@@ -3,4 +3,6 @@
 
 ## Table of Contents
 
+### Easy
+
 1. [Two Sum](Easy/Two-Sum/README.md)
